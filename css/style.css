@@ -47,7 +47,7 @@ head::after {
 }
 
 html::before {
-  content: 'DeLight\A A CSS DEMO';
+  content: 'Портфолио\A в разработке\A могу выслать на почту работы';
   letter-spacing: .5em;
   text-shadow: 0 0 5px #000;
   white-space: pre;
